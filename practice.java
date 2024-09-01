@@ -19,6 +19,8 @@ public class practice{
         System.out.println("Your " + age + " years old");
         System.out.println("Your phone number is: " + number);
         
+        System.out.println("");
+        System.out.println("Additional Info");
 
 
     }
